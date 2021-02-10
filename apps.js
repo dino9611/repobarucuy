@@ -1,1 +1,1 @@
-console.log('ini file')
+console.log('ini files')
